@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello there 👋 I'm Francis
+
+I am currently learning software development at Microverse Inc., by 2022 I will be editing this lines otherwise.
+
+According to 16personality.com, I am a Mediator - I'm a problem solver,a critical thinker and I love to help people.
+Famous people with this personality include: J.R.R Tolkien, Williams Shakespeare, Alicia Keys and Johnny Depp etc.
+
+I'm a good listener, a faster learner and I get bored when there's nothing complex to simplify.
+
+Hey, keep an eye out on this profile -- I am coming soon! :rocket:
 
 <!--
 **francisuloko/francisuloko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
