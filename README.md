@@ -3,7 +3,7 @@
 I am currently learning software development at Microverse Inc., by 2022 I will be editing this lines otherwise.
 
 :rainbow: According to 16personality.com, I am a Mediator - I'm a problem solver,a critical thinker and I love to help people.
-Famous people with this personality include: J.R.R Tolkien, Williams Shakespeare, Alicia Keys and Johnny Depp etc.
+Famous people with this personality include: J.R.R Tolkien, Williams Shakespeare, Alicia Keys and Johnny Depp.
 
 :sparkles: I'm a good listener, a faster learner and I get bored when there's nothing complex to simplify.
 
