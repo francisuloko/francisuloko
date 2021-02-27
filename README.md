@@ -1,4 +1,4 @@
-# Full-stack Web Developer
+# Full-Stack Web Developer
 
 ### Hello there 👋 I'm Francis
 
