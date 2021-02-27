@@ -2,7 +2,8 @@
 
 ### Hello there 👋 I'm Francis
 
-I am currently learning software development at Microverse Inc., by 2022 I will be editing this lines otherwise.
+I am a Full-Stack Web Developer currently learning software development at Microverse Inc.
+By 2022, I will be editing this lines otherwise.
 
 :rainbow: According to 16personality.com, I am a Mediator - I'm a problem solver,a critical thinker and I love to help people.
 Famous people with this personality include: J.R.R Tolkien, Williams Shakespeare, Alicia Keys and Johnny Depp.
