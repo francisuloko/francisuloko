@@ -11,10 +11,13 @@
 
 <h2>About</h2>
 <p>
-   I'm a Software Developer & lifelong learner.
-   <br /> Currently, I'm learning software development at <a href="https://www.microverse.org/" target="_blank">Microverse Inc</a>
+   Software Developer & lifelong learner.
+   <br />I'm currently how to build great web apps at <a href="https://www.microverse.org/" target="_blank">Microverse Inc</a>
    <br /> In my spare time, I listen to music and meditate.
+   <br />
 </p>
+
+[Personality type: Mediator]("https://www.16personalities.com/infp-personality")
 
 <h2>Languages</h2>
 <ul>
