@@ -12,7 +12,7 @@
 <h2>About</h2>
 <p>
    Software Developer & lifelong learner.
-   <br />I'm currently how to build great web apps at <a href="https://www.microverse.org/" target="_blank">Microverse Inc</a>
+   <br />I'm currently learning how to build fantastic web applications at <a href="https://www.microverse.org/" target="_blank">Microverse Inc</a>
    <br /> In my spare time, I listen to music and meditate.
    <br />
 </p>
