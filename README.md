@@ -36,6 +36,9 @@
    <li>github</li>
 </ul>
 
+<h2></h2>
+<p align="center" size="12">Copyright &copy; 2021</p>
+
 <!--
 **francisuloko/francisuloko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
