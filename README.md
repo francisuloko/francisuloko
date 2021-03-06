@@ -1,7 +1,17 @@
-![](./banner.gif)
+<img src="./banner.gif" alt="Francis Uloko, Software Developer">
+
+<p>
+   <a href="https://www.linkedin.com/in/francisuloko/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/francisuloko" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://api.whatsapp.com/send?phone=+2348065818531" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
+</p>
+
+###
 
 ## About
-I'm a Software Developer currently learning software development at Microverse Inc.
+I'm a Software Developer currently learning software development at <a href="https://www.microverse.org/" target="_blank">Microverse Inc</a>.
+
+###
 
 ## Technology
 -  Ruby
