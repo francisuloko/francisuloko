@@ -20,6 +20,7 @@
    <li>Ruby on Rails</li>
    <li>JavaScript</li>
    <li>React & Redux</li>
+   <li>Python</li>
 </ul>
 
 <!--
