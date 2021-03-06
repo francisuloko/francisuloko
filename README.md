@@ -9,7 +9,7 @@
   <a href="https://api.whatsapp.com/send?phone=+2348065818531" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
 </p>
 
-<h2>About</h2>
+<h2>Hello there :wave:</h2>
 <p>
    I'm a Software Developer currently learning software development at <a href="https://www.microverse.org/" target="_blank">Microverse Inc</a>
 </p>
@@ -36,4 +36,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- :wave:
 -->
