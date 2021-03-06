@@ -9,9 +9,11 @@
   <a href="https://api.whatsapp.com/send?phone=+2348065818531" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
 </p>
 
-<h2>Hello there :wave:</h2>
+<h2>About</h2>
 <p>
-   I'm a Software Developer currently learning software development at <a href="https://www.microverse.org/" target="_blank">Microverse Inc</a>
+   I'm a Software Developer & lifelong learner.
+   <br /> Currently, I'm learning software development at <a href="https://www.microverse.org/" target="_blank">Microverse Inc</a>
+   <br /> In my spare time, I listen to music and meditate.
 </p>
 
 <h2>Technology</h2>
