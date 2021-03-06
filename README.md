@@ -17,7 +17,7 @@
    <br />
 </p>
 
-[Personality type: Mediator]("https://www.16personalities.com/infp-personality")
+[Personality type: Mediator](https://www.16personalities.com/infp-personality)
 
 <h2>Languages</h2>
 <ul>
