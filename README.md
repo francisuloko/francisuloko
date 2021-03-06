@@ -1,16 +1,15 @@
-# Full-Stack Web Developer
+![](./banner.gif)
 
-### Hello there 👋 I'm Francis
+## About
+I'm a Software Developer currently learning software development at Microverse Inc.
 
-I am a Full-Stack Web Developer currently learning software development at Microverse Inc.
-By 2022, I will be editing this lines otherwise.
+## Technology
+-  Ruby
+-  Ruby on Rails
+-  JavaScript
+-  React & Redux.
+-  Oracle SOA & Webcenter Content
 
-:rainbow: According to 16personality.com, I am a Mediator - I'm a problem solver,a critical thinker and I love to help people.
-Famous people with this personality include: J.R.R Tolkien, Williams Shakespeare, Alicia Keys and Johnny Depp.
-
-:sparkles: I'm a good listener, a faster learner and I get bored when there's nothing complex to simplify.
-
-:bell: Hey, keep an eye out on this profile -- I am coming soon! :rocket:
 
 <!--
 **francisuloko/francisuloko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
