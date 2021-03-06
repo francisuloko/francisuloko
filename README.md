@@ -16,13 +16,24 @@
    <br /> In my spare time, I listen to music and meditate.
 </p>
 
-<h2>Technology</h2>
+<h2>Languages</h2>
 <ul>
    <li>Ruby</li>
    <li>Ruby on Rails</li>
    <li>JavaScript</li>
    <li>Python</li>
    <li>React & Redux</li>
+</ul>
+
+<h2>Frameworks</h2>
+<ul>
+   <li>Bootstrap</li>
+</ul>
+
+<h2>Technology</h2>
+<ul>
+   <li>git</li>
+   <li>github</li>
 </ul>
 
 <!--
