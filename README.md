@@ -1,4 +1,4 @@
-
+<center>
 <p>
    <img src="./banner.gif" alt="Francis Uloko, Software Developer & Lifelong Learner"
 </p>
@@ -37,6 +37,7 @@ Personality type: [Mediator](https://www.16personalities.com/infp-personality)
 <p>
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
 </p>
+</center>
 <h2></h2>
 <p align="center" size="12">Copyright &copy; 2021</p>
 
