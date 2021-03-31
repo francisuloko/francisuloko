@@ -18,7 +18,7 @@
 
 <p align="center">Personality type: <a href="https://www.16personalities.com/infp-personality">Mediator</a></p>
 
-<h4 align="center">Technologies and tools</h4>
+<h2 align="center">Technologies and tools</h2>
 <p align="center">
    <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" alt="python">
    <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=white" alt="html 5">
