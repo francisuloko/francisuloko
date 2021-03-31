@@ -20,19 +20,19 @@
 
 <h2 align="center">Skills</h2>
 <p align="center">
-   <img src="https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=white" alt="python">
-   <img src="https://img.shields.io/badge/HTML5-1572B6?style=for-the-badge&logo=html5&logoColor=white" alt="html 5">
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css 3">
-   <img src="https://img.shields.io/badge/JavaScript-1572B6?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
-   <img src="https://img.shields.io/badge/Sass-1572B6?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
-   <img src="https://img.shields.io/badge/Ruby-1572B6?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby">
+   <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" alt="python">
+   <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=white" alt="html 5">
+   <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=white" alt="css 3">
+   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
+   <img src="https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
+   <img src="https://img.shields.io/badge/Ruby-20232A?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby">
 </p>
 <p align="center">
-   <img src="https://img.shields.io/badge/Bootstrap-1572B6?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
-   <img src="https://img.shields.io/badge/Redux-1572B6?style=for-the-badge&logo=redux&logoColor=white" alt="redux">
-   <img src="https://img.shields.io/badge/Ruby_on_Rails-1572B6?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails">
-   <img src="https://img.shields.io/badge/Git-1572B6?style=for-the-badge&logo=git&logoColor=white" alt="git">
-   <img src="https://img.shields.io/badge/Ubuntu-1572B6?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">
+   <img src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
+   <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=white" alt="redux">
+   <img src="https://img.shields.io/badge/Ruby_on_Rails-20232A?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails">
+   <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white" alt="git">
+   <img src="https://img.shields.io/badge/Ubuntu-20232A?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">
 </p>
 <p align="center">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
