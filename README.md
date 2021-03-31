@@ -18,12 +18,12 @@
 
 <p align="center">Personality type: <a href="https://www.16personalities.com/infp-personality">Mediator</a></p>
 
-<h2 align="center">Skills</h2>
+<h4 align="center">Technologies and tools</h4>
 <p align="center">
    <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" alt="python">
    <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=white" alt="html 5">
    <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=white" alt="css 3">
-   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
+   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript">
    <img src="https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
    <img src="https://img.shields.io/badge/Ruby-20232A?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby">
 </p>
