@@ -20,15 +20,14 @@
 
 <h2 align="center">Technologies and tools</h2>
 <p align="center">
-   <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" alt="python">
    <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=white" alt="html 5">
    <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=white" alt="css 3">
-   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript">
    <img src="https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
    <img src="https://img.shields.io/badge/Ruby-20232A?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby">
+   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript">
    <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white" alt="git">
    <img src="https://img.shields.io/badge/Ubuntu-20232A?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">
-</p>
+   <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=white" alt="python">
 
 <!--
    <img src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
