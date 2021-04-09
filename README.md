@@ -26,18 +26,16 @@
    <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript">
    <img src="https://img.shields.io/badge/Sass-20232A?style=for-the-badge&logo=sass&logoColor=white" alt="sass">
    <img src="https://img.shields.io/badge/Ruby-20232A?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby">
-</p>
-<p align="center">
-   <img src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
-   <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=white" alt="redux">
-   <img src="https://img.shields.io/badge/Ruby_on_Rails-20232A?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails">
    <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=white" alt="git">
    <img src="https://img.shields.io/badge/Ubuntu-20232A?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu">
 </p>
-<p align="center">
+
+<!--
+   <img src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
+   <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=white" alt="redux">
+   <img src="https://img.shields.io/badge/Ruby_on_Rails-20232A?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
-</p>
-</p>
+-->
 <h2></h2>
 <p align="center" size="12">Copyright &copy; 2021</p>
 
