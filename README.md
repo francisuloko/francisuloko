@@ -35,7 +35,6 @@
    <img src="https://img.shields.io/badge/Ruby_on_Rails-20232A?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react">
 -->
-<h2></h2>
 <!--
 **francisuloko/francisuloko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
