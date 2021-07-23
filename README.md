@@ -5,7 +5,7 @@
 
 <h2 align="center">About</h2>
 <p align="center">
-   As a Software Developer & lifelong learner, I like to take up new challenges everyday and try to learn from them. I believe in making the world a better place for everyone, especially by solving life problems using "SOFTwares."
+   As a Software Developer & lifelong learner, I like to take up new challenges everyday and try to learn from them. I believe in making the world a better place for everyone, especially by solving life problems with programming.
    <br /> In my spare time, I listen to music and meditate.
    <br />
 </p>
