@@ -5,9 +5,11 @@
 
 <h2 align="center">About</h2>
 <p align="center">
-   As a Software Developer & lifelong learner, I like to take up new challenges everyday and try to learn from them. I believe in making the world a better place for everyone, especially by solving life problems with programming.
-   <br /> In my spare time, I listen to music and meditate.
-   <br />
+   As a Software Developer & lifelong learner <br />
+   I like to take up new challenges everyday and try to learn from them <br />
+   I believe in making the world a better place for everyone <br />
+   especially by solving life problems with programming <br />
+   In my spare time, I listen to music and meditate <br />
 </p>
 
 <p align="center">Personality type: <a href="https://www.16personalities.com/infp-personality">Mediator</a></p>
