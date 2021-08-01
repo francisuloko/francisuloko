@@ -4,17 +4,37 @@
 </p>
 
 <h2 align="center">About</h2>
+
 <p align="center">
-   As a Software Developer & lifelong learner <br />
-   I like to take up new challenges everyday and try to learn from them <br />
-   I believe in making the world a better place for everyone <br />
-   especially by solving life problems with programming <br />
-   In my spare time, I listen to music and meditate <br />
+  Francis is a Full-Stack Software Developer specialized in Ruby on Rails, <br/>
+  JavaScript, React & Redux, TDD and Version Control
+</p>
+<p align="center">
+  As a software developer, he is highly interested in<br/>
+  helping companies ship new products or features to the market
+</p>
+<p align="center">
+  He's an excellent team player with demonstrated skills in<br/>
+  effective communication, mentoring, pair-programming and remote work
+</p>
+<p align="center">
+  In his spare time, he likes to listen to music and meditate, and, <br/>
+  occasionally, he likes to play a game of chess 
+</p>
+<p align="center">
+  Want to connect? <br/>
+  <a href="https://www.linkedin.com/in/francisuloko/" target="_blank">LinkedIn</a> |
+  <a href="https://twitter.com/francisuloko" target="_blank">Twitter</a>
 </p>
 
-<p align="center">Personality type: <a href="https://www.16personalities.com/infp-personality">Mediator</a></p>
+<!-- <p align="center"></p> -->
 
-<h2 align="center">Technologies and tools</h2>
+<p align="center">Learn more <br/>
+  <a href="https://francisuloko.github.io/my-portfolio/">Porfolio</a> |
+  <a href="https://francisuloko.medium.com/">Medium</a> |
+  <a href="https://www.16personalities.com/infp-personality">16 personalities</a>
+</p>
+<h2></h2>
 <p align="center">
    <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=white" alt="html 5">
    <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=white" alt="css 3">
