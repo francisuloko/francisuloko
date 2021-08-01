@@ -6,7 +6,7 @@
 <h2 align="center">About</h2>
 
 <p align="center">
-  Francis is a Full-Stack Software Developer specialized in Ruby on Rails, <br/>
+  Francis Uloko is a Full-Stack Software Developer specialized in Ruby on Rails, <br/>
   JavaScript, React & Redux, TDD and Version Control
 </p>
 <p align="center">
